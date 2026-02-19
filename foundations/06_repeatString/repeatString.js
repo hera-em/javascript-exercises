@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const repeatString = function(string, num) {
     let repeatedString = "";
     if (num < 0) return "ERROR";
@@ -8,6 +9,11 @@ const repeatString = function(string, num) {
 };
 
 console.log(repeatString("",3));
+=======
+const repeatString = function() {
+
+};
+>>>>>>> upstream/main
 
 // Do not edit below this line
 module.exports = repeatString;

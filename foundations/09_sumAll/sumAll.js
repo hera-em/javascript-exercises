@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const sumAll = function(num1, num2) {
     let smallerNum = 0;
     let largerNum = 0;
@@ -29,6 +30,9 @@ const sumAll = function(num1, num2) {
     }
     
     return sum;
+=======
+const sumAll = function() {
+>>>>>>> upstream/main
 
 };
 
